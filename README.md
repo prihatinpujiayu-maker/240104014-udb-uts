@@ -14,16 +14,6 @@ docker compose up -d
 
 ## Screenshot
 
-### Docker PS
 [![Docker PS](images/docker-ps.png)](images/docker-ps.png)
-
-### Adminer diakses via ZeroTier
-[![Adminer ZeroTier](images/Adminer-zerotier.png)](images/Adminer-zerotier.png)
-
-### Login Adminer ke MySQL
-[![Login MySQL](images/adminer-mysql.png)](images/adminer-mysql.png)
-
-### Login Adminer ke PostgreSQL
-[![Login PostgreSQL](images/adminer-postgres.png)](images/adminer-postgres.png)
 
 
